@@ -1,6 +1,10 @@
 # CHL-CellEncoder
 
 Project for Computational Health Laboratory exam.
+Authors:
+Martina Melero Cavallo
+Francesco Mitola
+Alessandro Capurso
 
 ## Project track
 Train an encoder for single cell data, using a transformer architecture.
